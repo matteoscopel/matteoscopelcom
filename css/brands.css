@@ -165,7 +165,7 @@ button:hover,
 .button.button-artstation {
   color: #ffffff;
   background-color: #18181C;
-  border: 1px solid #25252b;
+  border: 1px solid #FFFFFF;
 }
 .button.button-artstation:hover,
 .button.button-artstation:focus {
@@ -474,6 +474,26 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Kick */
+.button.button-kick {
+  background-color:#000000;
+  color:  #ffffff;
+  border: 1px solid #ffffff;
+}
+.button.button-kick:hover {
+  filter: brightness(90%);
+}
+
+/* Kick Alt */
+.button.button-kick-alt {
+  background-color:#01e701;
+  color:  #000;
+}
+.button.button-kick-alt:hover {
+  filter: brightness(90%);
+}
+
+
 /* Kickstarter */
 .button.button-kickstarter {
   color: #ffffff;
@@ -561,7 +581,7 @@ button:hover,
 .button.button-mastodon {
   color: #ffffff;
   background-color: #17063B;
-  border: 1px solid #1e084d;
+  border: 1px solid #FFFFFF;
 }
 .button.button-mastodon:hover,
 .button.button-mastodon:focus {
@@ -576,6 +596,16 @@ button:hover,
 }
 .button.button-medium:hover,
 .button.button-medium:focus {
+  filter: brightness(90%);
+}
+
+/* NGL */
+.button.button-ngl {
+  color: #ffffff;
+  background-image: linear-gradient(-45deg, #ff8d10, #ec1187);
+}
+.button.button-ngl:hover,
+.button.button-ngl:focus {
   filter: brightness(90%);
 }
 
@@ -818,6 +848,17 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Threads */
+.button.button-threads {
+  color: #FFFFFF;
+  background-color: #000000;
+  border: 1px solid #FFFFFF;
+}
+.button.button-threads:hover,
+.button.button-threads:focus {
+  filter: brightness(90%);
+}
+
 /* Threema */
 .button.button-threema {
   color: #000000;
@@ -893,7 +934,7 @@ button:hover,
 
 /* Untappd */
 .button.button-untappd {
-  color: #ffffff;
+  color: #000000;
   background-color: #ffc000;
 }
 .button.button-untappd:hover,
