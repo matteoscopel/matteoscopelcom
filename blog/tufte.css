@@ -132,7 +132,7 @@ article {
 
 section {
     display: grid;
-    grid-template-columns: subgrid;
+    grid-template-columns: auto;
     row-gap: 1.4rem;
     padding-top: 2rem;
     padding-bottom: 1.6rem;
@@ -165,7 +165,7 @@ ul {
 p {
     vertical-align: baseline;
     margin-top: 0;
-    margin-bottom: 0; */
+    margin-bottom: 0;
 }
 
 blockquote {
