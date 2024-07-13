@@ -17,6 +17,15 @@ REPLACE/favicon.png
 </image>
 <!-- Blog articles -->
 <item>
+<guid isPermaLink="false">article2</guid>
+<title>Trouble in the middle</title>
+<link>https://www.matteoscopel.com/blog/02_troubleinthemiddle</link>
+<pubDate>Sat, 13 Jul 2024 21:25:00 GMT+1</pubDate>
+<description>
+<article><p>WI’ve always been torn between two dimensions. [<a href="https://www.matteoscopel.com/blog/02_troubleinthemiddle">Continues...</a>]</article>
+</description>
+</item>
+<item>
 <guid isPermaLink="false">article1</guid>
 <title>Raising my voice</title>
 <link>https://www.matteoscopel.com/blog/01_raisingmyvoice</link>
